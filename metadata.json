@@ -1,0 +1,7 @@
+{
+  "name": "Oshiolega Oil and Gas Ltd",
+  "description": "Professional sales website for Oshiolega Oil and Gas Ltd, a premier diesel fuel supplier in Lagos, Nigeria, featuring order forms, service showcases, and corporate information.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
